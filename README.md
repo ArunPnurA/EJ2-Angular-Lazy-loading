@@ -103,7 +103,3 @@ Run the application using the below commands.
 npm install
 npm run start
 ```
-
-## Sample Link
-
-Find this sample in the [Github link](https://github.com/SyncfusionExamples/EJ2-Angular-Lazy-loading)
